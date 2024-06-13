@@ -39,7 +39,7 @@ while op != 7:
     elif op == 5:
         Ex5.PP_Ex5()
     elif op == 6:
-        Ex6.PP_Ex6()  # Llama a PP_Ex6 para iniciar el servidor web
+        Ex6.PP_Ex6() 
     elif op == 7:
         print("Gracias por usar mi proyecto final, hasta la proxima :)")
     else:
